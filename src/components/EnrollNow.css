@@ -1,0 +1,10 @@
+.enroll_now > img{
+    position: relative;
+    width:100vw;
+    height: 100vh;
+}
+
+.enroll_now_content{
+    position: relative;
+    background-color: rgba(255, 0, 0, 0.4);
+}
